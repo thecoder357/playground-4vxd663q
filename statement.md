@@ -3,7 +3,7 @@
 This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-print("this is zane")
+#this is zane")
 
 total=(1*70) 
 print=total
