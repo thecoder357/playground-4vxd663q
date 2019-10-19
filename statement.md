@@ -3,7 +3,11 @@
 This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-print('Hello World!')
+print("this is zane")
+
+total=(1*70) 
+print=total
+print("yeet")
 ```
 
 # Advanced usage
